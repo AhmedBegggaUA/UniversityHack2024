@@ -1,0 +1,1696 @@
+Producto 1
+Mean: nan
+Std: nan
+Min: nan
+Max: nan
+NaN values: 55
+Correlation with Producto 1: 1.0
+
+Producto 2
+Mean: nan
+Std: nan
+Min: nan
+Max: nan
+NaN values: 55
+Correlation with Producto 1: 0.4703492041157108
+
+Turbidez_end_cul
+Mean: 80.08727272727275
+Std: 8.728304203915801
+Min: 62.400000000000006
+Max: 104.8
+NaN values: 0
+Correlation with Producto 1: 0.4618459680977922
+
+Air_Sparge_PV_mean_y
+Mean: 6.135546893276385
+Std: 2.5359805195047853
+Min: 1.3367937364755968
+Max: 11.882027871753085
+NaN values: 0
+Correlation with Producto 1: 0.4188160372821171
+
+Turbidez_max_y
+Mean: 80.75259259259259
+Std: 8.940106196909493
+Min: 62.400000000000006
+Max: 104.8
+NaN values: 1
+Correlation with Producto 1: 0.38257555754225775
+
+PUMP_2_PV_mean_y
+Mean: 1.0538820600659153
+Std: 0.32106775692393374
+Min: 0.2964472242185994
+Max: 1.5830938698870578
+NaN values: 0
+Correlation with Producto 1: 0.3663627644411767
+
+17825_D01906041.PV_max
+Mean: 631.6587179747778
+Std: 754.9720767583248
+Min: 0.0
+Max: 1790.9390782148
+NaN values: 0
+Correlation with Producto 1: 0.2847789855872635
+
+Temperatura_PV_mean_y
+Mean: 21.84650858120603
+Std: 2.8616625229218027
+Min: 16.20519294601588
+Max: 26.41386700833085
+NaN values: 0
+Correlation with Producto 1: 0.2640361560824584
+
+17825_D01919022.PV_mean
+Mean: 340.0851301428278
+Std: 502.43716351432835
+Min: 0.0
+Max: 2357.9265921056003
+NaN values: 0
+Correlation with Producto 1: 0.25579358602829905
+
+14246_D01919022.PV_max
+Mean: 5243.263776151328
+Std: 2489.2030391298817
+Min: 0.0
+Max: 6690.665699125281
+NaN values: 0
+Correlation with Producto 1: 0.24799653343995495
+
+17825_D01906041.PV_mean
+Mean: 26.107069306977735
+Std: 39.09526917574421
+Min: 0.0
+Max: 177.84215164272888
+NaN values: 0
+Correlation with Producto 1: 0.24684687951179507
+
+Turbidez_end
+Mean: 25.813818181818174
+Std: 1.9730362866790332
+Min: 20.8
+Max: 29.6
+NaN values: 0
+Correlation with Producto 1: 0.24004294753638153
+
+Turbidez_max_x
+Mean: 25.43757575757576
+Std: 2.0497302113678124
+Min: 21.040000000000003
+Max: 29.6
+NaN values: 22
+Correlation with Producto 1: 0.23240121621730386
+
+17825_D01916503.PV_max
+Mean: 1.2826516022897767
+Std: 0.7980203732426498
+Min: 0.0173988616010418
+Max: 2.595497498457456
+NaN values: 0
+Correlation with Producto 1: 0.22861101733310946
+
+14246_D01919022.PV_mean
+Mean: 544.3095769373617
+Std: 616.8230836761772
+Min: 0.0
+Max: 2219.326788487478
+NaN values: 0
+Correlation with Producto 1: 0.226571537906466
+
+17825_D01916047.PV_max
+Mean: 2.0259506613073155
+Std: 1.9455608849884478
+Min: 0.0030619741189002
+Max: 6.08711647572044
+NaN values: 0
+Correlation with Producto 1: 0.2162394493617587
+
+17825_D01919022.PV_max
+Mean: 3361.6509397266263
+Std: 3246.4448787250585
+Min: 0.0
+Max: 6693.328181273944
+NaN values: 0
+Correlation with Producto 1: 0.21007105189897934
+
+Temperatura_PV_min_y
+Mean: 8.248287844063821
+Std: 5.821164384974328
+Min: 3.0399988174438484
+Max: 16.47651555850416
+NaN values: 0
+Correlation with Producto 1: 0.2098375258023172
+
+12912_D01916503.PV_max
+Mean: 2.632752695720481
+Std: 1.3676139663929923
+Min: -0.0283985394813043
+Max: 4.0
+NaN values: 0
+Correlation with Producto 1: 0.20306183229549699
+
+Air_Sparge_PV_mean_x
+Mean: 0.7678124634827316
+Std: 0.5076285432585976
+Min: 0.2273137274643997
+Max: 2.09772141654054
+NaN values: 0
+Correlation with Producto 1: 0.20252664031998868
+
+14246_D01916047.PV_max
+Mean: 3.121230170808259
+Std: 1.933946097410128
+Min: 0.0217006491889419
+Max: 6.868113708496097
+NaN values: 0
+Correlation with Producto 1: 0.1933889862553294
+
+Volumen_centrifugado_1_mean
+Mean: 640.0
+Std: 0.0
+Min: 640.0
+Max: 640.0
+NaN values: 0
+Correlation with Producto 1: 0.19290066157954175
+
+14246_D01906041.PV_max
+Mean: 829.345548659943
+Std: 701.9263499140844
+Min: 0.0
+Max: 2400.0
+NaN values: 0
+Correlation with Producto 1: 0.19049420323703545
+
+Agitation_PV_mean_y
+Mean: 40.55072622511283
+Std: 10.551312461406567
+Min: 13.147105979021973
+Max: 58.010325659832354
+NaN values: 0
+Correlation with Producto 1: 0.18166372889390564
+
+14246_D01906041.PV_mean
+Mean: 35.745193586374874
+Std: 44.48329113256087
+Min: 0.0
+Max: 155.34207479574357
+NaN values: 0
+Correlation with Producto 1: 0.18122451624624092
+
+17825_D01916047.PV_mean
+Mean: 0.4018378813286253
+Std: 0.23586121719390823
+Min: 0.0017816290531068
+Max: 1.2121968873342943
+NaN values: 0
+Correlation with Producto 1: 0.16515643469272656
+
+DO_1_PV_mean_x
+Mean: 6.7265575414189955
+Std: 3.719512186916211
+Min: 0.0
+Max: 16.48017206827026
+NaN values: 0
+Correlation with Producto 1: 0.15169061075814252
+
+Temperatura_PV_mean_x
+Mean: 19.551325041679338
+Std: 2.5214853837578968
+Min: 16.482432769775375
+Max: 25.333228777933893
+NaN values: 0
+Correlation with Producto 1: 0.1418838765089379
+
+DO_1_PV_mean_y
+Mean: 10.475608696534698
+Std: 3.724816008244363
+Min: 3.794512818220951
+Max: 19.36594271417777
+NaN values: 0
+Correlation with Producto 1: 0.1413546337684488
+
+Gas_Overlay_PV_mean_x
+Mean: 2.631231510730489
+Std: 0.7803899496098343
+Min: 1.3333094685479068
+Max: 3.999996208987165
+NaN values: 0
+Correlation with Producto 1: 0.134411353254684
+
+pH_1_PV_max_x
+Mean: 6.2755441006747175
+Std: 0.01841189515256807
+Min: 6.272000122070312
+Max: 6.369459533691408
+NaN values: 0
+Correlation with Producto 1: 0.12879183363904734
+
+Turbidez_centrifugado_1_mean
+Mean: 18.075127272727276
+Std: 2.1881403829173154
+Min: 13.408
+Max: 25.392000000000003
+NaN values: 0
+Correlation with Producto 1: 0.12802778290277148
+
+17825_CTF0101.EN_Total_max
+Mean: 7.181818181818182
+Std: 17.756679399585476
+Min: 0.0
+Max: 66.0
+NaN values: 0
+Correlation with Producto 1: 0.12482567411580364
+
+Load_Cell_Net_PV_min_y
+Mean: -17.236363636363635
+Std: 7.363683750938683
+Min: -25.6
+Max: -0.4
+NaN values: 0
+Correlation with Producto 1: 0.1157598840782805
+
+Single_Use_pH_PV_max_x
+Mean: 800.1948943536931
+Std: 0.1504787897508756
+Min: 799.9759765625
+Max: 800.575976562504
+NaN values: 0
+Correlation with Producto 1: 0.11226827831461647
+
+Turbidez_centrifugado_1_max
+Mean: 30.88472727272727
+Std: 4.474624691294916
+Min: 22.480000000000004
+Max: 49.3
+NaN values: 0
+Correlation with Producto 1: 0.10962505418966458
+
+ID_bioreactor_x
+Mean: 13460.690909090908
+Std: 583.9880412501889
+Min: 13171
+Max: 14618
+NaN values: 0
+Correlation with Producto 1: 0.10925104864010564
+
+Single_Use_DO_PV_max_x
+Mean: 799.0216086647724
+Std: 22.407446889352553
+Min: 692.2142578125
+Max: 838.0389648437521
+NaN values: 0
+Correlation with Producto 1: 0.10736117860544112
+
+Gas_Overlay_PV_min_x
+Mean: 0.5086393560197395
+Std: 1.3442072370028093
+Min: 0.0
+Max: 3.998746410911288
+NaN values: 0
+Correlation with Producto 1: 0.10699725777452967
+
+12912_CTF0101.EN_Parcial_mean
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: 0.10662183058008903
+
+12912_CTF0101.EN_Parcial_max
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: 0.10531051293251255
+
+Centrifugacion_2_turbidez
+Mean: 22.000000000000004
+Std: 5.076674326980432
+Min: 12.48
+Max: 39.04
+NaN values: 0
+Correlation with Producto 1: 0.10314424333042924
+
+Agitation_PV_mean_x
+Mean: 31.20204256142773
+Std: 6.270256125270567
+Min: 14.666666666666666
+Max: 45.32613058807476
+NaN values: 0
+Correlation with Producto 1: 0.10223585447816073
+
+Pressure_PV_min_x
+Mean: -2.864127282732632
+Std: 3.242341358134273
+Min: -10.10620902579256
+Max: 1.018518066406248
+NaN values: 0
+Correlation with Producto 1: 0.10175428190407192
+
+Temperatura_PV_max_y
+Mean: 30.170093794288046
+Std: 0.5116550061011408
+Min: 29.652466810224883
+Max: 32.43199462890624
+NaN values: 0
+Correlation with Producto 1: 0.09901765972831848
+
+Centrifugacion_1_turbidez
+Mean: 30.069818181818185
+Std: 3.4721343051495905
+Min: 22.32
+Max: 42.32
+NaN values: 0
+Correlation with Producto 1: 0.09875880057022425
+
+14246_CTF0101.EN_Parcial_max
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: 0.09156151359082873
+
+17825_D01916503.PV_mean
+Mean: 0.37738273822007834
+Std: 0.17945361551284503
+Min: 0.0123266561864899
+Max: 0.8513716863051263
+NaN values: 0
+Correlation with Producto 1: 0.0914196921782629
+
+DO_1_PV_min_y
+Mean: -0.14835660067471604
+Std: 0.14176826147103228
+Min: -0.2813659667968752
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: 0.09097325395721076
+
+17825_CTF0101.EN_Total_mean
+Mean: 0.28249561239831716
+Std: 0.7442959004349603
+Min: 0.0
+Max: 2.88
+NaN values: 0
+Correlation with Producto 1: 0.0874377605187626
+
+Turbidez_centrifugado_2_max
+Mean: 22.558545454545445
+Std: 5.286566980348442
+Min: 12.8
+Max: 39.2
+NaN values: 0
+Correlation with Producto 1: 0.08526193715374336
+
+14246_CTF0101.EN_Parcial_mean
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: 0.08421927907869939
+
+Air_Sparge_PV_max_y
+Mean: 71.75121112880797
+Std: 24.950915935745044
+Min: 64.33871124184769
+Max: 160.02672737554482
+NaN values: 0
+Correlation with Producto 1: 0.08364683039937697
+
+Single_Use_pH_PV_min_y
+Mean: -69.5534221920922
+Std: 231.30006459508442
+Min: -794.36796875
+Max: 5.782183196846384
+NaN values: 0
+Correlation with Producto 1: 0.08353250511191333
+
+Load_Cell_Net_PV_mean_y
+Mean: 979.9098507866868
+Std: 242.90788628376083
+Min: 262.32835941138603
+Max: 1351.4197436805316
+NaN values: 0
+Correlation with Producto 1: 0.0766841445081243
+
+Viabilidad_max_x
+Mean: 113200000.00000003
+Std: 25962642.39248378
+Min: 54213333.333333366
+Max: 159200000.0
+NaN values: 22
+Correlation with Producto 1: 0.0766644234099252
+
+PUMP_2_PV_mean_x
+Mean: 0.09570601372226013
+Std: 0.07779828841178817
+Min: 0.0
+Max: 0.2377893315871109
+NaN values: 0
+Correlation with Producto 1: 0.07416353883206814
+
+PUMP_2_PV_max_y
+Mean: 8.031441210019196
+Std: 0.23317425417681567
+Min: 8.0
+Max: 9.72926655105576
+NaN values: 0
+Correlation with Producto 1: 0.06893963513219577
+
+Temperatura_PV_max_x
+Mean: 29.828859230635857
+Std: 0.05364797999593979
+Min: 29.75026790833584
+Max: 29.9072807763888
+NaN values: 0
+Correlation with Producto 1: 0.0687395335876353
+
+12912_CTF0101.EN_Total_max
+Mean: 1.4727272727272727
+Std: 1.4382930399215832
+Min: 0.0
+Max: 3.0
+NaN values: 0
+Correlation with Producto 1: 0.062326180330575895
+
+Turbidez_min_x
+Mean: 15.098181818181818
+Std: 1.642592186426409
+Min: 12.08
+Max: 17.84
+NaN values: 22
+Correlation with Producto 1: 0.0619509536188067
+
+12912_CTF0101.EN_Total_mean
+Mean: 0.02005027451503115
+Std: 0.02471182929380519
+Min: 0.0
+Max: 0.0909090909090909
+NaN values: 0
+Correlation with Producto 1: 0.059946532069694
+
+17825_CTF0101.EN_Parcial_mean
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: 0.058707160929479314
+
+Turbidez_mean_y
+Mean: 57.510032333921224
+Std: 6.295996788750767
+Min: 42.55
+Max: 74.27
+NaN values: 1
+Correlation with Producto 1: 0.058455587202593
+
+17825_CTF0101.EN_Parcial_max
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: 0.05674137089783344
+
+12912_D01780551.PV_mean
+Mean: 94.86740897953332
+Std: 5.559781715732042
+Min: 79.55396480364365
+Max: 100.0
+NaN values: 0
+Correlation with Producto 1: 0.05412229585065619
+
+DO_1_PV_max_x
+Mean: 64.88193497418082
+Std: 27.813069809363764
+Min: 0.0
+Max: 94.793915376164
+NaN values: 0
+Correlation with Producto 1: 0.05178044129407184
+
+ID_centrifuga
+Mean: 14298.054545454546
+Std: 1690.3011392690184
+Min: 12912
+Max: 17825
+NaN values: 0
+Correlation with Producto 1: 0.0512349504178983
+
+Single_Use_pH_PV_mean_y
+Mean: 377.4847921060145
+Std: 126.17649370191458
+Min: 133.4462658567384
+Max: 667.6141324744464
+NaN values: 0
+Correlation with Producto 1: 0.0505181703735761
+
+Single_Use_pH_PV_min_x
+Mean: -23.20731046527287
+Std: 149.98068891744376
+Min: -788.2080078125
+Max: 6.33600006103516
+NaN values: 0
+Correlation with Producto 1: 0.04749122867245799
+
+Turbidez_centrifugado_2_mean
+Mean: 8.818909090909091
+Std: 2.0234485348196958
+Min: 4.992
+Max: 15.616000000000003
+NaN values: 0
+Correlation with Producto 1: 0.04573490758682286
+
+PUMP_2_TOTAL_max_y
+Mean: 8079.156434659091
+Std: 2848.0258210139577
+Min: 5932.67421875
+Max: 22260.5125
+NaN values: 0
+Correlation with Producto 1: 0.04468625773114621
+
+Gas_Overlay_PV_max_y
+Mean: 6.695420261642172
+Std: 4.619069325235321
+Min: 4.001780033539848
+Max: 19.98131057660728
+NaN values: 0
+Correlation with Producto 1: 0.04403689649550508
+
+Viabilidad_min_x
+Mean: 4905422.222222223
+Std: 1971035.474810882
+Min: 598133.3333333336
+Max: 7218666.666666664
+NaN values: 22
+Correlation with Producto 1: 0.043774143871928725
+
+Gas_Overlay_PV_min_y
+Mean: 0.14469372502461647
+Std: 0.7517217206327239
+Min: 0.0
+Max: 3.9790774381769527
+NaN values: 0
+Correlation with Producto 1: 0.0436420476112452
+
+orden_encadenado
+Mean: 1.5636363636363637
+Std: 0.764093177458341
+Min: 1
+Max: 3
+NaN values: 0
+Correlation with Producto 1: 0.04219518814411074
+
+DO_2_PV_mean_x
+Mean: 2.5488554529314955
+Std: 3.862545924860914
+Min: 0.0
+Max: 10.064968656142648
+NaN values: 0
+Correlation with Producto 1: 0.03969379474662429
+
+14246_CTF0101.EN_Total_max
+Mean: 1.4727272727272727
+Std: 1.3313115985337816
+Min: 0.0
+Max: 3.0
+NaN values: 0
+Correlation with Producto 1: 0.039159193660378705
+
+14246_D01916047.PV_mean
+Mean: 0.44948994547382926
+Std: 0.27091939343516286
+Min: 0.0081201722979761
+Max: 1.1388819786241695
+NaN values: 0
+Correlation with Producto 1: 0.03906133488747999
+
+Vialidad_end_cul
+Mean: 174065454.54545453
+Std: 28703414.548342623
+Min: 90400000.0
+Max: 246400000.0
+NaN values: 0
+Correlation with Producto 1: 0.03333141626357991
+
+Load_Cell_Net_PV_max_x
+Mean: 167.831327102882
+Std: 15.399521553811596
+Min: 85.52000122070321
+Max: 177.20182842000642
+NaN values: 0
+Correlation with Producto 1: 0.03190772303316682
+
+14246_D01916503.PV_max
+Mean: 1.6962421547631639
+Std: 0.5133561869786956
+Min: 0.4118055343627928
+Max: 2.3280587021700883
+NaN values: 0
+Correlation with Producto 1: 0.030320186700550686
+
+Air_Sparge_PV_max_x
+Mean: 15.261848615355643
+Std: 2.541845430061256
+Min: 5.21723175048828
+Max: 16.001023339317438
+NaN values: 0
+Correlation with Producto 1: 0.029326845845778205
+
+PUMP_2_PV_max_x
+Mean: 8.447881692012965
+Std: 12.758428498608763
+Min: 0.0
+Max: 48.0
+NaN values: 0
+Correlation with Producto 1: 0.027971085164642844
+
+pH_2_PV_max_x
+Mean: 5.881383415829515
+Std: 1.7135140987836999
+Min: 3.2
+Max: 10.34707794189456
+NaN values: 0
+Correlation with Producto 1: 0.027820750750268644
+
+Gas_Overlay_PV_max_x
+Mean: 4.073869083892328
+Std: 0.5395291964296239
+Min: 4.000646166901696
+Max: 8.0023724167108
+NaN values: 0
+Correlation with Producto 1: 0.026154434998635536
+
+Agitation_PV_max_x
+Mean: 72.21818181818182
+Std: 4.5161886138600975
+Min: 44.0
+Max: 80.0
+NaN values: 0
+Correlation with Producto 1: 0.02451476897447106
+
+Agitation_PV_min_x
+Mean: 0.7272727272727273
+Std: 3.7783719081231633
+Min: 0.0
+Max: 20.0
+NaN values: 0
+Correlation with Producto 1: 0.023312999283969425
+
+Single_Use_DO_PV_max_y
+Mean: 814.7374458451708
+Std: 34.625339560723326
+Min: 799.9919921875
+Max: 917.737695312504
+NaN values: 0
+Correlation with Producto 1: 0.01906837033244801
+
+Gas_Overlay_PV_mean_y
+Mean: 3.2329902270491457
+Std: 0.6944310046345041
+Min: 0.7095135914688447
+Max: 3.999996881958853
+NaN values: 0
+Correlation with Producto 1: 0.016857435342134672
+
+Turbidez_init
+Mean: 15.09672727272727
+Std: 1.4791126651118487
+Min: 12.08
+Max: 17.84
+NaN values: 0
+Correlation with Producto 1: 0.016806281861308402
+
+PUMP_2_TOTAL_min_y
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: 0.0128389842884198
+
+DO_2_PV_max_x
+Mean: 22.893036323523
+Std: 34.578765039937984
+Min: 0.0
+Max: 81.448822021484
+NaN values: 0
+Correlation with Producto 1: 0.011680273744630593
+
+12912_D01780551.PV_min
+Mean: 37.51752031982768
+Std: 26.029145982989622
+Min: 26.1244648662084
+Max: 100.0
+NaN values: 0
+Correlation with Producto 1: 0.010391480969985935
+
+pH_2_utilizada
+Mean: 5.429818181818184
+Std: 0.06514630000268938
+Min: 5.344
+Max: 5.6080000000000005
+NaN values: 0
+Correlation with Producto 1: 0.009408434669923194
+
+Viabilidad_max_y
+Mean: 186730864.19753087
+Std: 29111289.28095869
+Min: 127466666.6666664
+Max: 268533333.3333336
+NaN values: 1
+Correlation with Producto 1: 0.008373796071677016
+
+pH_1_PV_min_y
+Mean: 0.9315859685270407
+Std: 0.539698834568864
+Min: 0.0
+Max: 1.300272941589352
+NaN values: 0
+Correlation with Producto 1: 0.006627829598286451
+
+12912_D01919022.PV_max
+Mean: 5153.780238430319
+Std: 2568.068440171263
+Min: 0.0
+Max: 6688.091634324121
+NaN values: 0
+Correlation with Producto 1: 0.006412129933285553
+
+12912_D01916503.PV_mean
+Mean: 0.6607210688629149
+Std: 0.34570257025552653
+Min: -0.0311729158753404
+Max: 1.3433542003405237
+NaN values: 0
+Correlation with Producto 1: 0.0033714241947735185
+
+Vialidad_end
+Mean: 114560000.0
+Std: 26855244.332311485
+Min: 54240000.0
+Max: 159200000.0
+NaN values: 0
+Correlation with Producto 1: 0.00023571840548365161
+
+Turbidez_1_utilizada
+Mean: 27.780363636363628
+Std: 3.007594069608147
+Min: 22.4
+Max: 33.44
+NaN values: 0
+Correlation with Producto 1: -0.0013416309013752573
+
+Load_Cell_Net_PV_min_x
+Mean: -1.7610383897752635
+Std: 15.348929832174456
+Min: -7.439999389648441
+Max: 74.84574125670369
+NaN values: 0
+Correlation with Producto 1: -0.008177697985718116
+
+pH_2_PV_min_x
+Mean: 1.3050267002173614
+Std: 0.5049231089442408
+Min: 0.0100313479623824
+Max: 3.2
+NaN values: 0
+Correlation with Producto 1: -0.009212600346767836
+
+Turbidez_mean_x
+Mean: 21.560525252525252
+Std: 1.7605157684734818
+Min: 18.293333333333333
+Max: 26.304
+NaN values: 22
+Correlation with Producto 1: -0.012376378192668446
+
+pH_1_PV_mean_y
+Mean: 3.694709593972168
+Std: 0.6945588691689158
+Min: 2.253117308325007
+Max: 5.12022657518677
+NaN values: 0
+Correlation with Producto 1: -0.013343103330828247
+
+pH_1_utilizada
+Mean: 5.448145454545454
+Std: 0.13501596862783224
+Min: 5.36
+Max: 6.28
+NaN values: 0
+Correlation with Producto 1: -0.01410705565053202
+
+pH_2_PV_mean_x
+Mean: 3.461576909187998
+Std: 0.9508841868613607
+Min: 1.984788372857749
+Max: 5.026333877386426
+NaN values: 0
+Correlation with Producto 1: -0.015908891272019915
+
+Glucosa_max
+Mean: 1.8709629629629632
+Std: 0.4040102260504297
+Min: 0.592
+Max: 3.2960000000000003
+NaN values: 1
+Correlation with Producto 1: -0.017382114271605142
+
+DO_1_PV_max_y
+Mean: 77.62537651452338
+Std: 6.96729676859599
+Min: 60.40694580078129
+Max: 94.02462768554722
+NaN values: 0
+Correlation with Producto 1: -0.0180878935438056
+
+Temperatura_PV_min_x
+Mean: 7.094691189613016
+Std: 5.605972403562166
+Min: 3.1280029296875043
+Max: 15.8497168963968
+NaN values: 0
+Correlation with Producto 1: -0.018828432507356493
+
+Pressure_PV_max_x
+Mean: 410.7821157866467
+Std: 169.31984752995672
+Min: 3.6003571300599604
+Max: 480.0
+NaN values: 0
+Correlation with Producto 1: -0.020038196695344665
+
+pH_1_PV_max_y
+Mean: 6.008958456010645
+Std: 0.1485477818934384
+Min: 5.886257171630856
+Max: 6.3603659309477285
+NaN values: 0
+Correlation with Producto 1: -0.022606839911787194
+
+Turbidez_init_cul
+Mean: 19.117090909090905
+Std: 3.533608832407936
+Min: 14.0
+Max: 33.44
+NaN values: 0
+Correlation with Producto 1: -0.02650679031223493
+
+12912_D01916047.PV_max
+Mean: 3.170808009092017
+Std: 2.3164645008028817
+Min: -0.0033113364787229
+Max: 6.991457500486648
+NaN values: 0
+Correlation with Producto 1: -0.02651216209523913
+
+14246_D01916503.PV_mean
+Mean: 0.4052079470978363
+Std: 0.19088387111603536
+Min: 0.0628306599020213
+Max: 0.8467459377051303
+NaN values: 0
+Correlation with Producto 1: -0.02916623832970187
+
+Qty
+Mean: 2108.2979044018884
+Std: 388.2135708093159
+Min: 591.9069767441861
+Max: 2381.6674285714284
+NaN values: 2
+Correlation with Producto 1: -0.03150826092603415
+
+12912_D01906041.PV_max
+Mean: 723.33825926088
+Std: 703.3921370908674
+Min: 0.0
+Max: 1863.58775514128
+NaN values: 0
+Correlation with Producto 1: -0.03286970933207471
+
+Single_Use_DO_PV_mean_y
+Mean: 402.0444810573918
+Std: 104.32228573349389
+Min: 154.14464264781765
+Max: 609.7068925260814
+NaN values: 0
+Correlation with Producto 1: -0.033139394251013345
+
+Volumen_centrifugado_2_max
+Mean: 400.0
+Std: 0.0
+Min: 400.0
+Max: 400.0
+NaN values: 0
+Correlation with Producto 1: -0.03552936561941319
+
+Glucosa_mean
+Mean: 1.2270874191651973
+Std: 0.36287880769124775
+Min: 0.3931428571428572
+Max: 2.992
+NaN values: 1
+Correlation with Producto 1: -0.04007048278924228
+
+PUMP_1_TOTAL_min_y
+Mean: 0.006698005986114793
+Std: 0.034797891780268264
+Min: 0.0
+Max: 0.1841951646181568
+NaN values: 0
+Correlation with Producto 1: -0.04346385949882435
+
+Pressure_PV_max_y
+Mean: 462.61710848721594
+Std: 90.30866483905196
+Min: 1.970483398437504
+Max: 480.0
+NaN values: 0
+Correlation with Producto 1: -0.04383743334958963
+
+Pressure_PV_mean_y
+Mean: 96.28850208169085
+Std: 78.08557933312112
+Min: -0.5434635004791921
+Max: 398.2348974455399
+NaN values: 0
+Correlation with Producto 1: -0.04594164273077609
+
+PUMP_2_TOTAL_mean_y
+Mean: 2798.519986890637
+Std: 1104.8510867042949
+Min: 735.0444032519722
+Max: 6066.095228869564
+NaN values: 0
+Correlation with Producto 1: -0.048892759901090634
+
+Turbidez_min_y
+Mean: 19.08888888888889
+Std: 3.572926851939202
+Min: 14.0
+Max: 33.44
+NaN values: 1
+Correlation with Producto 1: -0.049054662050714216
+
+Pressure_PV_mean_x
+Mean: 147.67083782395713
+Std: 96.70362883482152
+Min: 0.0768970929881683
+Max: 320.6336122798109
+NaN values: 0
+Correlation with Producto 1: -0.051633709717352885
+
+Pressure_PV_min_y
+Mean: -2.942416416617393
+Std: 2.7788603337784896
+Min: -13.200231933593765
+Max: -0.5567907835008424
+NaN values: 0
+Correlation with Producto 1: -0.05192238393032824
+
+PUMP_1_TOTAL_mean_y
+Mean: 55.00940243891767
+Std: 25.44036062532147
+Min: 26.66947195342712
+Max: 145.2178462375835
+NaN values: 0
+Correlation with Producto 1: -0.05554742257019285
+
+Viabilidad_mean_y
+Mean: 118656583.89182836
+Std: 20173806.911898002
+Min: 87010370.37037045
+Max: 190270000.0
+NaN values: 1
+Correlation with Producto 1: -0.05617985871371717
+
+12912_D01919022.PV_mean
+Mean: 439.14242807265083
+Std: 488.8247157953377
+Min: 0.0
+Max: 1775.8135021370197
+NaN values: 0
+Correlation with Producto 1: -0.05643547874760563
+
+Viabilidad_min_y
+Mean: 10316987.654320987
+Std: 10364495.331858736
+Min: 1744000.0
+Max: 77093333.33333336
+NaN values: 1
+Correlation with Producto 1: -0.057527430788869766
+
+Load_Cell_Net_PV_mean_x
+Mean: 94.58879983438277
+Std: 29.197925091752836
+Min: 26.66107441614319
+Max: 137.17198249045427
+NaN values: 0
+Correlation with Producto 1: -0.05830741392094228
+
+Duracion_cultivo
+Mean: 166586.18181818182
+Std: 7713.656838243572
+Min: 149820.0
+Max: 176580.0
+NaN values: 0
+Correlation with Producto 1: -0.0603272253596358
+
+Agitation_PV_max_y
+Mean: 80.07272727272728
+Std: 0.5393598899705936
+Min: 80.0
+Max: 84.0
+NaN values: 0
+Correlation with Producto 1: -0.06764074573915721
+
+PUMP_1_TOTAL_min_x
+Mean: 2.4487492810603357
+Std: 4.037189165843105
+Min: 0.0
+Max: 17.3600006103516
+NaN values: 0
+Correlation with Producto 1: -0.0688706795609534
+
+12912_D01906041.PV_mean
+Mean: 31.547512212157798
+Std: 39.70847953683246
+Min: 0.0
+Max: 133.52860308102373
+NaN values: 0
+Correlation with Producto 1: -0.07003893506387995
+
+Single_Use_pH_PV_max_y
+Mean: 800.0408673650568
+Std: 0.07884708222282022
+Min: 799.8479980468752
+Max: 800.1600097656241
+NaN values: 0
+Correlation with Producto 1: -0.07239947944984985
+
+pH_2_PV_max_y
+Mean: 5.691684643730646
+Std: 1.0774688379633945
+Min: 3.2
+Max: 7.688363135049087
+NaN values: 0
+Correlation with Producto 1: -0.07500213780491073
+
+Lote_parental
+Mean: 24081.31818181818
+Std: 17.379205866114727
+Min: 24055.0
+Max: 24107.0
+NaN values: 33
+Correlation with Producto 1: -0.07607122155257338
+
+PUMP_2_TOTAL_max_x
+Mean: 384.6644583407318
+Std: 149.38076436158278
+Min: 12.835783386230482
+Max: 625.8225585937504
+NaN values: 0
+Correlation with Producto 1: -0.07650930605408704
+
+Single_Use_DO_PV_min_y
+Mean: 2.483135578753455
+Std: 2.3779055321459897
+Min: 0.0
+Max: 8.05794296264648
+NaN values: 0
+Correlation with Producto 1: -0.08254158322352821
+
+Turbidez_2_utilizada
+Mean: 28.142545454545463
+Std: 2.9641888642418905
+Min: 22.480000000000004
+Max: 32.480000000000004
+NaN values: 0
+Correlation with Producto 1: -0.08583053151108068
+
+Load_Cell_Net_PV_max_y
+Mean: 1679.344870235984
+Std: 13.947311352388386
+Min: 1650.4
+Max: 1712.4
+NaN values: 0
+Correlation with Producto 1: -0.08811486046188752
+
+Volumen_cultivo
+Mean: 159.73687272727275
+Std: 23.97070131010598
+Min: 80.4
+Max: 169.04000000000002
+NaN values: 0
+Correlation with Producto 1: -0.08813733310968115
+
+PUMP_2_TOTAL_mean_x
+Mean: 102.6685720970969
+Std: 91.60328392283502
+Min: 0.5161041666142323
+Max: 357.24514180537
+NaN values: 0
+Correlation with Producto 1: -0.09550079756836292
+
+PUMP_2_TOTAL_min_x
+Mean: 0.15773830421611404
+Std: 0.8194917190420823
+Min: 0.0
+Max: 4.337803365943136
+NaN values: 0
+Correlation with Producto 1: -0.09901508017471343
+
+DO_2_PV_mean_y
+Mean: -0.0009198052150464291
+Std: 2.8292474322973522e-06
+Min: -0.000921630859375
+Max: -0.0009102671288154
+NaN values: 0
+Correlation with Producto 1: -0.102962681485639
+
+Viabilidad_mean_x
+Mean: 70642149.49494952
+Std: 17574691.85017532
+Min: 40252266.66666666
+Max: 101557333.33333342
+NaN values: 22
+Correlation with Producto 1: -0.10913641303497959
+
+ID_bioreactor_y
+Mean: 14116.018181818183
+Std: 693.9486449914878
+Min: 13169
+Max: 14617
+NaN values: 0
+Correlation with Producto 1: -0.11221153629230031
+
+PUMP_1_TOTAL_mean_x
+Mean: 21.776124446483127
+Std: 19.411537694424425
+Min: 5.761615858495444
+Max: 61.95457893275051
+NaN values: 0
+Correlation with Producto 1: -0.11804607455140805
+
+Volumen_inoculo_used
+Mean: 82.26285714285714
+Std: 2.1214103519906526
+Min: 80.0
+Max: 87.2
+NaN values: 13
+Correlation with Producto 1: -0.1195199423202605
+
+14246_D01916047.PV_min
+Mean: 0.05402833856522754
+Std: 0.13000701285902241
+Min: -0.0043413829469154
+Max: 0.4245369911193848
+NaN values: 0
+Correlation with Producto 1: -0.1236797019210369
+
+Single_Use_pH_PV_mean_x
+Mean: 449.0131458304694
+Std: 143.56439681800578
+Min: 14.40541260107714
+Max: 535.5561172178342
+NaN values: 0
+Correlation with Producto 1: -0.12502571700099954
+
+14246_D01780551.PV_min
+Mean: 36.12866732764247
+Std: 24.633719732999435
+Min: 25.7331891259557
+Max: 100.0
+NaN values: 0
+Correlation with Producto 1: -0.12706137204288234
+
+14246_CTF0101.EN_Total_mean
+Mean: 0.014019909876743192
+Std: 0.01506105297054549
+Min: 0.0
+Max: 0.0549450549450549
+NaN values: 0
+Correlation with Producto 1: -0.12719976025809826
+
+12912_D01916047.PV_mean
+Mean: 0.3332589266484425
+Std: 0.24590355322677432
+Min: -0.0040946090083047
+Max: 0.9745126847244908
+NaN values: 0
+Correlation with Producto 1: -0.13197977512828665
+
+12912_D01916047.PV_min
+Mean: 0.012306640856283486
+Std: 0.07735683204957965
+Min: -0.0267404792404408
+Max: 0.4052876392020816
+NaN values: 0
+Correlation with Producto 1: -0.13885890377044882
+
+PUMP_1_TOTAL_max_y
+Mean: 249.32725275213096
+Std: 287.92766856469257
+Min: 69.43998413085937
+Max: 1386.317382812504
+NaN values: 0
+Correlation with Producto 1: -0.13888101846516346
+
+17825_D01916047.PV_min
+Mean: 0.10703297428828161
+Std: 0.1913480082471795
+Min: -0.0112442311415154
+Max: 0.464356847706756
+NaN values: 0
+Correlation with Producto 1: -0.14491817988391148
+
+pH_2_PV_mean_y
+Mean: -4.966286743797404
+Std: 0.31213740500848197
+Min: -5.410466664418228
+Max: -4.6197989123591645
+NaN values: 0
+Correlation with Producto 1: -0.1502721982311607
+
+PUMP_1_TOTAL_max_x
+Mean: 42.70109888250181
+Std: 49.43139045346742
+Min: 9.91999969482424
+Max: 138.88004150390643
+NaN values: 0
+Correlation with Producto 1: -0.15192659459875066
+
+Single_Use_DO_PV_mean_x
+Mean: 506.7648750202701
+Std: 72.60477803045619
+Min: 276.6852474722217
+Max: 551.3193075597239
+NaN values: 0
+Correlation with Producto 1: -0.15562549302196632
+
+PUMP_1_PV_max_y
+Mean: 4.95563726354299
+Std: 14.395828650066345
+Min: 0.0
+Max: 50.0624194986624
+NaN values: 0
+Correlation with Producto 1: -0.16146179803838576
+
+pH_2_PV_min_y
+Mean: -38.21071166992184
+Std: 0.0
+Min: -38.21071166992184
+Max: -38.21071166992184
+NaN values: 0
+Correlation with Producto 1: -0.16581397001229772
+
+PUMP_1_PV_mean_y
+Mean: 0.004619331412994131
+Std: 0.013511879338353868
+Min: 0.0
+Max: 0.048229691231852
+NaN values: 0
+Correlation with Producto 1: -0.1730616953737143
+
+17825_D01780551.PV_min
+Mean: 60.44213924706193
+Std: 36.489180310535936
+Min: 24.0967129933307
+Max: 100.0
+NaN values: 0
+Correlation with Producto 1: -0.1743038299957327
+
+Single_Use_DO_PV_min_x
+Mean: 9.696971532737047
+Std: 3.622782895235602
+Min: 0.6515499481635129
+Max: 15.67456483171008
+NaN values: 0
+Correlation with Producto 1: -0.18301612259841885
+
+12912_D01916503.PV_min
+Mean: 0.2327431588248292
+Std: 0.25027080346094954
+Min: -0.0338170299739759
+Max: 0.7003406137252625
+NaN values: 0
+Correlation with Producto 1: -0.20305781235772025
+
+Lote
+Mean: 24081.763636363637
+Std: 16.653287559277494
+Min: 24054
+Max: 24110
+NaN values: 0
+Correlation with Producto 1: -0.20464129276163692
+
+pH_1_PV_min_x
+Mean: -4.686228942871095
+Std: 8.96364568968945e-16
+Min: -4.686228942871096
+Max: -4.686228942871096
+NaN values: 0
+Correlation with Producto 1: -0.20549553762173708
+
+pH_1_PV_mean_x
+Mean: 1.8614812551608841
+Std: 0.6878601676733024
+Min: 1.0038825415433548
+Max: 2.559653041371149
+NaN values: 0
+Correlation with Producto 1: -0.20734296394332838
+
+Duracion_preinoculo
+Mean: 111464.72727272728
+Std: 1165.9741667703265
+Min: 109860.0
+Max: 114360.0
+NaN values: 0
+Correlation with Producto 1: -0.21004839803421563
+
+Volumen_centrifugado_2_mean
+Mean: 100.0
+Std: 0.0
+Min: 100.0
+Max: 100.0
+NaN values: 0
+Correlation with Producto 1: -0.21501408034348285
+
+14246_D01780551.PV_mean
+Mean: 93.61611380555243
+Std: 7.089280431110502
+Min: 74.34939781299352
+Max: 100.0
+NaN values: 0
+Correlation with Producto 1: -0.22625974934967336
+
+17825_D01780551.PV_mean
+Mean: 96.25233183438559
+Std: 5.5726537862870735
+Min: 73.70281574110317
+Max: 100.0
+NaN values: 0
+Correlation with Producto 1: -0.2568008951404917
+
+17825_D01916503.PV_min
+Mean: 0.18627722816015005
+Std: 0.22346227226281645
+Min: -0.0016264195634232
+Max: 0.468439633069972
+NaN values: 0
+Correlation with Producto 1: -0.26002691950552526
+
+Duracion_inoculo
+Mean: 89524.36363636363
+Std: 3484.381428516967
+Min: 85620.0
+Max: 97500.0
+NaN values: 0
+Correlation with Producto 1: -0.26756371640197707
+
+14246_D01916503.PV_min
+Mean: 0.13099106833745824
+Std: 0.19894186729176852
+Min: -0.0632176256861565
+Max: 0.4190610231552288
+NaN values: 0
+Correlation with Producto 1: -0.27040851459949555
+
+Glucosa_min
+Mean: 0.7398518518518521
+Std: 0.3417044628069208
+Min: 0.224
+Max: 2.472
+NaN values: 1
+Correlation with Producto 1: -0.4378556586395759
+
+Air_Sparge_PV_min_x
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+DO_1_PV_min_x
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+DO_2_PV_min_x
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+PUMP_1_PV_min_x
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+PUMP_1_PV_max_x
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+PUMP_1_PV_mean_x
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+PUMP_2_PV_min_x
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+12912_CTF0101.EN_Parcial_min
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+12912_CTF0101.EN_Total_min
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+12912_D01780551.PV_max
+Mean: 100.0
+Std: 0.0
+Min: 100.0
+Max: 100.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+12912_D01906041.PV_min
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+12912_D01919022.PV_min
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+14246_CTF0101.EN_Parcial_min
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+14246_CTF0101.EN_Total_min
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+14246_D01780551.PV_max
+Mean: 100.0
+Std: 0.0
+Min: 100.0
+Max: 100.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+14246_D01906041.PV_min
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+14246_D01919022.PV_min
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+17825_D01919022.PV_min
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+17825_D01906041.PV_min
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+17825_D01780551.PV_max
+Mean: 100.0
+Std: 0.0
+Min: 100.0
+Max: 100.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+17825_CTF0101.EN_Total_min
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+17825_CTF0101.EN_Parcial_min
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+Agitation_PV_min_y
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+Air_Sparge_PV_min_y
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+DO_2_PV_min_y
+Mean: -0.005529785156250003
+Std: 3.501424097534941e-18
+Min: -0.00552978515625
+Max: -0.00552978515625
+NaN values: 0
+Correlation with Producto 1: nan
+
+DO_2_PV_max_y
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+PUMP_1_PV_min_y
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+PUMP_2_PV_min_y
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+Volumen_centrifugado_1_min
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+Volumen_centrifugado_1_max
+Mean: 2000.0
+Std: 0.0
+Min: 2000.0
+Max: 2000.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+Volumen_centrifugado_2_min
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+Turbidez_centrifugado_1_min
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
+Turbidez_centrifugado_2_min
+Mean: 0.0
+Std: 0.0
+Min: 0.0
+Max: 0.0
+NaN values: 0
+Correlation with Producto 1: nan
+
